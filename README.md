@@ -1,6 +1,6 @@
 # Condcision Behavioral Analysis
 
-**Condcision** is a data science project investigating the behavioral and cognitive mechanisms underlying decision-making and confirmation bias. This repository contains the code for processing, statistically analyzing, and modeling behavioral data collected from human participants.
+**Condcision_beh** is the first part of a cognitive neuroscience project investigating the behavioral and cognitive mechanisms underlying decision-making and confirmation bias. This repository contains the code for processing, statistically analyzing, and modeling behavioral data collected from human participants.
 
 The project specifically focuses on analyzing data from two experimental variants:
 1. **`3reps`**: An experiment exploring how sequential repetitions influence perceptual decisions.
